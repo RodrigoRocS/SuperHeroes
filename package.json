@@ -1,0 +1,25 @@
+{
+  "name": "superheroes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RodrigoRocS/SuperHeroes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RodrigoRocS/SuperHeroes/issues"
+  },
+  "homepage": "https://github.com/RodrigoRocS/SuperHeroes#readme",
+  "dependencies": {
+    "@trybe/eslint-config-frontend": "^1.8.3",
+    "vite": "^4.1.1"
+  },
+  "type": "module"
+}
