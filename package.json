@@ -19,6 +19,7 @@
   "homepage": "https://github.com/RodrigoRocS/SuperHeroes#readme",
   "dependencies": {
     "@trybe/eslint-config-frontend": "^1.8.3",
+    "sweetalert2": "^11.7.1",
     "vite": "^4.1.1"
   },
   "type": "module"
